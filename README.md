@@ -1,14 +1,11 @@
-Topic:
-Create "Link in bio" webpage for IG profile.
+# HTML-CSS-link-in-ig-bio
 
-Ingredients:
-HTML - HyperText Markup Language
-CSS - Cascading Style Sheets
-JavaScript - A scripting language for web pages
+### Purpose: 
 
+- Create "Link in bio" webpage for IG profile.
 
-Directory Structure:
-PROJECT_ROOT
-- index.html #entry point
-- style.css #style sheets
-- images #images
+<img src="https://github.com/szuyuchen/HTML-CSS-link-in-ig-bio/blob/main/images/sample-image.png?raw=true" width=500>
+
+### Page link:
+
+https://szuyuchen.github.io/HTML-CSS-link-in-ig-bio/
